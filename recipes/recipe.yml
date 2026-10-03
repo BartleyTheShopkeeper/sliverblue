@@ -22,7 +22,6 @@ modules:
       packages:
         - micro
         - input-remapper
-        - gamescope
     remove:
       packages:
         # example: removing firefox (in favor of the flatpak)
