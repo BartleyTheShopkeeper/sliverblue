@@ -22,7 +22,7 @@ modules:
       packages:
         - micro
         - input-remapper
-        - openssl
+        - openssl3-libs
     remove:
       packages:
         # example: removing firefox (in favor of the flatpak)
